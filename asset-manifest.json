@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/infcinema/static/css/main.dc3e7da5.chunk.css",
+    "main.js": "/infcinema/static/js/main.ca03f82b.chunk.js",
+    "main.js.map": "/infcinema/static/js/main.ca03f82b.chunk.js.map",
+    "runtime-main.js": "/infcinema/static/js/runtime-main.ac0915ea.js",
+    "runtime-main.js.map": "/infcinema/static/js/runtime-main.ac0915ea.js.map",
+    "static/js/2.492267ed.chunk.js": "/infcinema/static/js/2.492267ed.chunk.js",
+    "static/js/2.492267ed.chunk.js.map": "/infcinema/static/js/2.492267ed.chunk.js.map",
+    "index.html": "/infcinema/index.html",
+    "precache-manifest.9b3d273cb7efdaf37326d92cfb99ad2b.js": "/infcinema/precache-manifest.9b3d273cb7efdaf37326d92cfb99ad2b.js",
+    "service-worker.js": "/infcinema/service-worker.js",
+    "static/css/main.dc3e7da5.chunk.css.map": "/infcinema/static/css/main.dc3e7da5.chunk.css.map",
+    "static/js/2.492267ed.chunk.js.LICENSE.txt": "/infcinema/static/js/2.492267ed.chunk.js.LICENSE.txt",
+    "static/media/empty_actor.jpg": "/infcinema/static/media/empty_actor.1747a0fb.jpg",
+    "static/media/empty_poster.jpg": "/infcinema/static/media/empty_poster.06f945e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0915ea.js",
+    "static/js/2.492267ed.chunk.js",
+    "static/css/main.dc3e7da5.chunk.css",
+    "static/js/main.ca03f82b.chunk.js"
+  ]
+}
