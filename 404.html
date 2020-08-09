@@ -10,7 +10,7 @@
     <script>
       (function redirect() {
         if (document && document.location) {
-          document.location.replace(document.location.pathname);
+          document.location.replace(`/?redirect=${document.location.pathname}`);
         }
       })();
     </script>
