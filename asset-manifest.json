@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/infcinema/static/css/main.49a964a0.chunk.css",
-    "main.js": "/infcinema/static/js/main.ec6b2836.chunk.js",
-    "main.js.map": "/infcinema/static/js/main.ec6b2836.chunk.js.map",
+    "main.js": "/infcinema/static/js/main.69d3f62b.chunk.js",
+    "main.js.map": "/infcinema/static/js/main.69d3f62b.chunk.js.map",
     "runtime-main.js": "/infcinema/static/js/runtime-main.ac0915ea.js",
     "runtime-main.js.map": "/infcinema/static/js/runtime-main.ac0915ea.js.map",
-    "static/js/2.bffdc1d5.chunk.js": "/infcinema/static/js/2.bffdc1d5.chunk.js",
-    "static/js/2.bffdc1d5.chunk.js.map": "/infcinema/static/js/2.bffdc1d5.chunk.js.map",
+    "static/js/2.a1f92eeb.chunk.js": "/infcinema/static/js/2.a1f92eeb.chunk.js",
+    "static/js/2.a1f92eeb.chunk.js.map": "/infcinema/static/js/2.a1f92eeb.chunk.js.map",
     "index.html": "/infcinema/index.html",
-    "precache-manifest.9279ebe7ab034f7938cb9691e4cb8ec8.js": "/infcinema/precache-manifest.9279ebe7ab034f7938cb9691e4cb8ec8.js",
+    "precache-manifest.b60d830d51e194320e8672fdd82083ff.js": "/infcinema/precache-manifest.b60d830d51e194320e8672fdd82083ff.js",
     "service-worker.js": "/infcinema/service-worker.js",
     "static/css/main.49a964a0.chunk.css.map": "/infcinema/static/css/main.49a964a0.chunk.css.map",
-    "static/js/2.bffdc1d5.chunk.js.LICENSE.txt": "/infcinema/static/js/2.bffdc1d5.chunk.js.LICENSE.txt",
+    "static/js/2.a1f92eeb.chunk.js.LICENSE.txt": "/infcinema/static/js/2.a1f92eeb.chunk.js.LICENSE.txt",
     "static/media/empty_actor.jpg": "/infcinema/static/media/empty_actor.1747a0fb.jpg",
+    "static/media/empty_actor_b.jpg": "/infcinema/static/media/empty_actor_b.7910fae6.jpg",
+    "static/media/empty_episode.jpg": "/infcinema/static/media/empty_episode.dcf6f690.jpg",
     "static/media/empty_poster.jpg": "/infcinema/static/media/empty_poster.06f945e1.jpg",
+    "static/media/empty_poster_b.jpg": "/infcinema/static/media/empty_poster_b.0ee4707a.jpg",
     "static/media/iko2.png": "/infcinema/static/media/iko2.610f37f4.png",
     "static/media/iko3.png": "/infcinema/static/media/iko3.610f37f4.png",
     "static/media/imdb_icon.png": "/infcinema/static/media/imdb_icon.621c4151.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ac0915ea.js",
-    "static/js/2.bffdc1d5.chunk.js",
+    "static/js/2.a1f92eeb.chunk.js",
     "static/css/main.49a964a0.chunk.css",
-    "static/js/main.ec6b2836.chunk.js"
+    "static/js/main.69d3f62b.chunk.js"
   ]
 }
