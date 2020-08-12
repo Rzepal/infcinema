@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/infcinema/static/css/main.49a964a0.chunk.css",
-    "main.js": "/infcinema/static/js/main.14348f8d.chunk.js",
-    "main.js.map": "/infcinema/static/js/main.14348f8d.chunk.js.map",
+    "main.js": "/infcinema/static/js/main.66683551.chunk.js",
+    "main.js.map": "/infcinema/static/js/main.66683551.chunk.js.map",
     "runtime-main.js": "/infcinema/static/js/runtime-main.ac0915ea.js",
     "runtime-main.js.map": "/infcinema/static/js/runtime-main.ac0915ea.js.map",
-    "static/js/2.bdf136fc.chunk.js": "/infcinema/static/js/2.bdf136fc.chunk.js",
-    "static/js/2.bdf136fc.chunk.js.map": "/infcinema/static/js/2.bdf136fc.chunk.js.map",
+    "static/js/2.b3debdf8.chunk.js": "/infcinema/static/js/2.b3debdf8.chunk.js",
+    "static/js/2.b3debdf8.chunk.js.map": "/infcinema/static/js/2.b3debdf8.chunk.js.map",
     "index.html": "/infcinema/index.html",
-    "precache-manifest.8cbc3ca63530c4219a7b8f3965d11bdf.js": "/infcinema/precache-manifest.8cbc3ca63530c4219a7b8f3965d11bdf.js",
+    "precache-manifest.d801b926b082ad3f5d017ee2b649200e.js": "/infcinema/precache-manifest.d801b926b082ad3f5d017ee2b649200e.js",
     "service-worker.js": "/infcinema/service-worker.js",
     "static/css/main.49a964a0.chunk.css.map": "/infcinema/static/css/main.49a964a0.chunk.css.map",
-    "static/js/2.bdf136fc.chunk.js.LICENSE.txt": "/infcinema/static/js/2.bdf136fc.chunk.js.LICENSE.txt",
+    "static/js/2.b3debdf8.chunk.js.LICENSE.txt": "/infcinema/static/js/2.b3debdf8.chunk.js.LICENSE.txt",
     "static/media/empty_actor.jpg": "/infcinema/static/media/empty_actor.1747a0fb.jpg",
     "static/media/empty_actor_b.jpg": "/infcinema/static/media/empty_actor_b.7910fae6.jpg",
     "static/media/empty_episode.jpg": "/infcinema/static/media/empty_episode.dcf6f690.jpg",
     "static/media/empty_poster.jpg": "/infcinema/static/media/empty_poster.06f945e1.jpg",
     "static/media/empty_poster_b.jpg": "/infcinema/static/media/empty_poster_b.0ee4707a.jpg",
-    "static/media/iko2.png": "/infcinema/static/media/iko2.610f37f4.png",
     "static/media/iko3.png": "/infcinema/static/media/iko3.610f37f4.png",
+    "static/media/iko4.png": "/infcinema/static/media/iko4.8ad81a9e.png",
     "static/media/imdb_icon.png": "/infcinema/static/media/imdb_icon.621c4151.png",
     "static/media/tmdb_icon.24a6fdb9.svg": "/infcinema/static/media/tmdb_icon.24a6fdb9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac0915ea.js",
-    "static/js/2.bdf136fc.chunk.js",
+    "static/js/2.b3debdf8.chunk.js",
     "static/css/main.49a964a0.chunk.css",
-    "static/js/main.14348f8d.chunk.js"
+    "static/js/main.66683551.chunk.js"
   ]
 }
