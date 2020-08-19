@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "664dccf28c1ca309d61e9c2f95723c41",
+    "revision": "34ea81806056b4d8ab73f3e3e30391fc",
     "url": "/infcinema/index.html"
   },
   {
-    "revision": "0263ff2649061d306fb5",
+    "revision": "bc2add391411e5ee8dd8",
     "url": "/infcinema/static/css/main.49a964a0.chunk.css"
   },
   {
-    "revision": "4be5a1698dd1e3c426d9",
-    "url": "/infcinema/static/js/2.200299f8.chunk.js"
+    "revision": "6afa7e449620d342c942",
+    "url": "/infcinema/static/js/2.1729122f.chunk.js"
   },
   {
     "revision": "2715dfca609a4cf544db7a6013222897",
-    "url": "/infcinema/static/js/2.200299f8.chunk.js.LICENSE.txt"
+    "url": "/infcinema/static/js/2.1729122f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0263ff2649061d306fb5",
-    "url": "/infcinema/static/js/main.3afd8168.chunk.js"
+    "revision": "bc2add391411e5ee8dd8",
+    "url": "/infcinema/static/js/main.3720574d.chunk.js"
   },
   {
     "revision": "0b4fcd593b4130bdcaa3",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infcinema/static/media/empty_poster_b.0ee4707a.jpg"
   },
   {
+    "revision": "57c95f634c3139d93c5d317bcfb74dc8",
+    "url": "/infcinema/static/media/fanart_icon.57c95f63.ico"
+  },
+  {
     "revision": "610f37f42d96051abf6b13e8b50f46cc",
     "url": "/infcinema/static/media/iko3.610f37f4.png"
   },
@@ -58,5 +62,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "24a6fdb93a3bb0275107bfc71637cb21",
     "url": "/infcinema/static/media/tmdb_icon.24a6fdb9.svg"
+  },
+  {
+    "revision": "504d3f76696e3a0baabf29ef3c0a1ef6",
+    "url": "/infcinema/static/media/trakt_icon.504d3f76.svg"
   }
 ]);

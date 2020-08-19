@@ -1,31 +1,33 @@
 {
   "files": {
     "main.css": "/infcinema/static/css/main.49a964a0.chunk.css",
-    "main.js": "/infcinema/static/js/main.3afd8168.chunk.js",
-    "main.js.map": "/infcinema/static/js/main.3afd8168.chunk.js.map",
+    "main.js": "/infcinema/static/js/main.3720574d.chunk.js",
+    "main.js.map": "/infcinema/static/js/main.3720574d.chunk.js.map",
     "runtime-main.js": "/infcinema/static/js/runtime-main.ac0915ea.js",
     "runtime-main.js.map": "/infcinema/static/js/runtime-main.ac0915ea.js.map",
-    "static/js/2.200299f8.chunk.js": "/infcinema/static/js/2.200299f8.chunk.js",
-    "static/js/2.200299f8.chunk.js.map": "/infcinema/static/js/2.200299f8.chunk.js.map",
+    "static/js/2.1729122f.chunk.js": "/infcinema/static/js/2.1729122f.chunk.js",
+    "static/js/2.1729122f.chunk.js.map": "/infcinema/static/js/2.1729122f.chunk.js.map",
     "index.html": "/infcinema/index.html",
-    "precache-manifest.7ba7fdd862dd58225988175d9ef1d51f.js": "/infcinema/precache-manifest.7ba7fdd862dd58225988175d9ef1d51f.js",
+    "precache-manifest.8846b5049a64fa0140f7ba8d91d80150.js": "/infcinema/precache-manifest.8846b5049a64fa0140f7ba8d91d80150.js",
     "service-worker.js": "/infcinema/service-worker.js",
     "static/css/main.49a964a0.chunk.css.map": "/infcinema/static/css/main.49a964a0.chunk.css.map",
-    "static/js/2.200299f8.chunk.js.LICENSE.txt": "/infcinema/static/js/2.200299f8.chunk.js.LICENSE.txt",
+    "static/js/2.1729122f.chunk.js.LICENSE.txt": "/infcinema/static/js/2.1729122f.chunk.js.LICENSE.txt",
     "static/media/empty_actor.jpg": "/infcinema/static/media/empty_actor.1747a0fb.jpg",
     "static/media/empty_actor_b.jpg": "/infcinema/static/media/empty_actor_b.7910fae6.jpg",
     "static/media/empty_episode.jpg": "/infcinema/static/media/empty_episode.dcf6f690.jpg",
     "static/media/empty_poster.jpg": "/infcinema/static/media/empty_poster.06f945e1.jpg",
     "static/media/empty_poster_b.jpg": "/infcinema/static/media/empty_poster_b.0ee4707a.jpg",
+    "static/media/fanart_icon.ico": "/infcinema/static/media/fanart_icon.57c95f63.ico",
     "static/media/iko3.png": "/infcinema/static/media/iko3.610f37f4.png",
     "static/media/iko4.png": "/infcinema/static/media/iko4.8ad81a9e.png",
     "static/media/imdb_icon.png": "/infcinema/static/media/imdb_icon.621c4151.png",
-    "static/media/tmdb_icon.24a6fdb9.svg": "/infcinema/static/media/tmdb_icon.24a6fdb9.svg"
+    "static/media/tmdb_icon.24a6fdb9.svg": "/infcinema/static/media/tmdb_icon.24a6fdb9.svg",
+    "static/media/trakt_icon.504d3f76.svg": "/infcinema/static/media/trakt_icon.504d3f76.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac0915ea.js",
-    "static/js/2.200299f8.chunk.js",
+    "static/js/2.1729122f.chunk.js",
     "static/css/main.49a964a0.chunk.css",
-    "static/js/main.3afd8168.chunk.js"
+    "static/js/main.3720574d.chunk.js"
   ]
 }
