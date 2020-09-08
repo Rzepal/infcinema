@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/infcinema/static/css/main.fc45f65b.chunk.css",
-    "main.js": "/infcinema/static/js/main.d899d9a4.chunk.js",
-    "main.js.map": "/infcinema/static/js/main.d899d9a4.chunk.js.map",
+    "main.js": "/infcinema/static/js/main.c9db9f1e.chunk.js",
+    "main.js.map": "/infcinema/static/js/main.c9db9f1e.chunk.js.map",
     "runtime-main.js": "/infcinema/static/js/runtime-main.ac0915ea.js",
     "runtime-main.js.map": "/infcinema/static/js/runtime-main.ac0915ea.js.map",
     "static/js/2.a08d4dc3.chunk.js": "/infcinema/static/js/2.a08d4dc3.chunk.js",
     "static/js/2.a08d4dc3.chunk.js.map": "/infcinema/static/js/2.a08d4dc3.chunk.js.map",
     "index.html": "/infcinema/index.html",
-    "precache-manifest.cc4a7e507bfafdb3827a914fd8964139.js": "/infcinema/precache-manifest.cc4a7e507bfafdb3827a914fd8964139.js",
+    "precache-manifest.e4051771cdc9aa685a085a90bca01ea9.js": "/infcinema/precache-manifest.e4051771cdc9aa685a085a90bca01ea9.js",
     "service-worker.js": "/infcinema/service-worker.js",
     "static/css/main.fc45f65b.chunk.css.map": "/infcinema/static/css/main.fc45f65b.chunk.css.map",
     "static/js/2.a08d4dc3.chunk.js.LICENSE.txt": "/infcinema/static/js/2.a08d4dc3.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.ac0915ea.js",
     "static/js/2.a08d4dc3.chunk.js",
     "static/css/main.fc45f65b.chunk.css",
-    "static/js/main.d899d9a4.chunk.js"
+    "static/js/main.c9db9f1e.chunk.js"
   ]
 }
